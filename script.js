@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fadeIn = setInterval(() => {
       vol = Math.min(vol + 0.02, 0.15);
       music.volume = vol;
-      if (vol >= 0.15) clearInterval(fadeIn);
+      if (vol >= 0.08) clearInterval(fadeIn);
     }, 80);
 
     boot.classList.add('exiting');
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         observer.unobserve(e.target);
       }
     });
-  }, { threshold: 0.15 });
+  }, { threshold: 0.08 });
   revealEls.forEach(el => observer.observe(el));
 
   // ── MEMORIES ──
