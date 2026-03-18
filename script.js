@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
 { photo: "assets/parisview.jpg", caption: "views for last day in France." },
 { photo: "assets/portuswitch.JPG", caption: "at this point I'm officially on European grounds. Lisbon layover. already was feeling different." },
 { photo: "assets/preflight.JPG", caption: "the last pic I took in San Francisco with my family before going abroad. what a feeling." },
-{ photo: "assets/roomies.JPG", caption: "we had 6 roommates. no living room. but you couldn't have picked a better group. we still had the best nights." },
+{ photo: "assets/Roomies.JPG", caption: "we had 6 roommates. no living room. but you couldn't have picked a better group. we still had the best nights." },
 { photo: "assets/schedule.PNG", caption: "so this was my school schedule. in Spain it was actually kind of weird because my classes would literally move around." },
 { photo: "assets/spanclass.JPG", caption: "one of my classes. it's funny, whenever I heard someone speak or even had any indication they knew English I would speak to them." },
 { photo: "assets/welcomebck.JPG", caption: "my welcome back to the states. it's funny, I saw people posting their return photos with posters and such. I was thinking like ah man, that'd be cool but it wouldn't happen to me. and look. dude you are loved, come on." },
